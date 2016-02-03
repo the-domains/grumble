@@ -1,0 +1,28 @@
+name: Grumble
+favicon: null
+layout_spectrum: 0.9406562787480652
+typography_spectrum: 0.46550998417660594
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.34155118302442133
+  lightness: 0.04409425100311637
+  saturation: 0.6173518262803555
+  rhythmicContrast: 0.6677124684210867
+purpose: []
